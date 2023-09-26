@@ -1,0 +1,20 @@
+#topBar{
+    background: linear-gradient(20deg,white,rgba(22, 154, 190, 0.738));
+    padding: 20px 5px;
+}
+#form-div{
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(135deg,rgb(32, 140, 170), white);
+    padding: 10px;
+    box-shadow: 5px 5px 15px gray;
+    border-radius: 5px;
+}
+.card{
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(135deg,rgb(32, 140, 170), white);
+    color: white;
+    padding: 10px;
+    box-shadow: 5px 5px 15px gray;
+}
